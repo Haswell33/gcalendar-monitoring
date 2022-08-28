@@ -5,3 +5,7 @@ check if only organizer is signed up at the meeting and if there is no company e
 `
 credentials.json
 `
+
+`
+token.json
+`
