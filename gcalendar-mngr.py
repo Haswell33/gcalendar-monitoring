@@ -20,7 +20,7 @@ from email.message import EmailMessage
 LOG_FILE = f'/var/log/{os.path.basename(__file__).split(".")[0]}.log'
 # LOG_FILE = f'{os.path.abspath(os.path.dirname(__file__))}/logs/{os.path.basename(__file__).split(".")[0]}.log'
 SENDER_MAIL = '<MAIL_SENDER>'
-SENDER_PASSWORD = '<SMTP_PASS>
+SENDER_PASSWORD = '<SMTP_PASS>'
 SMTP_SERVER = '<SMTP_SERVER>'
 SMTP_PORT = <SMTP_PORT>
 COMPANY_DOMAIN = '<DOMAIN_NAME>'
